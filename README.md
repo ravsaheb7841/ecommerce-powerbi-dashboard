@@ -90,6 +90,3 @@ Printers generate the highest profit followed by Bookcases, Sarees, Accessories,
 
 ---
 
-## 🙌 Author
-Developed for analytics and dashboard portfolio building.
-
